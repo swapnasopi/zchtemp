@@ -1,0 +1,57 @@
+*{margin:0; padding:0}
+body{font-family:ubuntu, sans-serif, arial; color:#4C4C4C; font-size:14px;}
+ul{list-style-type:none}
+a{text-decoration:none}
+hr{width:80%; margin:0 auto; opacity:0.7}
+.wrapper{width:90%; margin:0 auto}
+.top-bar{background-color:#194769; }
+.top-bar i{color:#fff; padding:10px 15px; }
+.header{background-color:#EEEEEE;}
+.brand{width:30%; float:left}
+
+/* Navigation bar star*/
+.nav{width:70%; float:left}
+.nav ul{margin-top:30px; text-align:right}
+.nav ul li{display:inline; padding:10px 15px}
+.nav ul li a{color:#194769; font-weight:700; font-size:16px}
+/* Navigation bar End */
+.slider{position:relative}
+.slider img{width:100%}
+.slider-content{position:absolute; top:50%; left: 20px}
+.slider-content h2{font-size:2.5em; color:#fff; text-shadow:2px 1px 2px #363636; }
+
+/* Section Part star*/
+	.section-main{}
+	.section{margin:20px 0}
+	.left-aside, .right-aside{width:20%; float:left; }
+	.middle{width:60%; float:left; }
+	.left-aside h3{padding-bottom:20px;}
+	.left-aside ul li{padding:10px 15px}
+	.left-aside ul li a{color:#194769; font-size:15px}
+	
+	.middle_one{margin-bottom:10px}
+	
+	.middle_two{margin-top:10px}
+	.middle_image, .middle_content{width:50%; float:left}
+	
+	.middle_content p{padding-right:30px; text-align:justify}
+	
+	.middle_content button{padding:10px 20px;float:center;margin-top:20px;margin-left:70px;background-color:#696969}
+	.middle_content button a{color:white}
+	   
+	
+	.right-aside ul li{padding:10px 15px; color:#194769; font-size:15px}
+	.clearfix{clear:left;}
+/* Section Part End*/
+	.footer{ margin-top:20px; background-color:#3a3a3a; height:130px;}
+	
+	.footer_one, .footer_two, .footer_three, .footer_four{width:18%; float:left;}
+	.footer_one{margin-left:20px;color:#AFABAB;padding:15px 5px}
+	.footer_two{margin-left:30px;color:#AFABAB;padding:15px 5px}
+	.footer_two ul li a{color:#AFABAB;}
+    .footer_three{color:#AFABAB;padding:15px 5px}
+    .footer_three ul li a{color:#AFABAB;}
+	.footer_four{color:#AFABAB;padding:15px 10px}
+	.footer_four ul li a{color:blue;padding:10px 10px;margin-top:10px}
+	.footer_four ul li{display:inline;}
+	
